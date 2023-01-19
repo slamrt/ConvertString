@@ -14,9 +14,7 @@ int main()
 	string input;
 	cin >> input;
 
-	//const int size = input.length();
 	cout << newString(input);
-	//map<char, int> temp[size] = {};
 }
 
 string newString(string s) {
